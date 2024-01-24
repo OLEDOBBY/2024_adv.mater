@@ -5,7 +5,7 @@ We upload trEL datasets and physical parameters which were used as input data an
 
 Each input data consist of 25,000 trEL profiles.
 
-Each trEL profile has the number of 250 data points and is processed by featurization of logarithm and differentiation.
+Each trEL profile has the number of 220 data points and is processed by featurization of logarithm and differentiation.
 
 Output data consist of kr, knr, kT, kTT, kTP, kST, recombination coefficient, TTA ratio.
 
